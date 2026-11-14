@@ -23,4 +23,4 @@ I am a Ph.D. student at the [Institute of Mathematics at UNAM, Cuernavaca](https
 
 My research is in operator algebras, focusing on the structure and classification of C\*-algebras.
 
-**Email:** [kohei.miyazaki@im.unam.mx](mailto:kohei.miyazaki@im.unam.mx)
+Email: [kohei.miyazaki@im.unam.mx](mailto:kohei.miyazaki@im.unam.mx)
