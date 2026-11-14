@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-### MEXT Math A
+#### MEXT Math A
 
 - [2025](/assets/mext/mext-math-a-2025.pdf)
 - [2024](/assets/mext/mext-math-a-2024.pdf)
@@ -19,7 +19,7 @@ nav_order: 1
 - [2015](/assets/mext/mext-math-a-2015.pdf)
 - [2014](/assets/mext/mext-math-a-2014.pdf)
 
-### MEXT Math B
+#### MEXT Math B
 
 - [2025](/assets/mext/mext-math-b-2025.pdf)
 - [2024](/assets/mext/mext-math-b-2024.pdf)
