@@ -6,11 +6,11 @@ nav: true
 nav_order: 1
 ---
 
-The Japanese Government (MEXT) Scholarship is offered by Japan's Ministry of Education, Culture, Sports, Science and Technology to international students who wish to study at Japanese universities. It is one of the most generous scholarships for study in Japan, providing **full tuition**, **monthly stipends**, and **round-trip travel expenses**. Applicants for the undergraduate program take written exams, including mathematics: **Math A** is for humanities and social science applicants, and **Math B** for science and engineering applicants.
+The Japanese Government (MEXT) Scholarship is offered by Japan's Ministry of Education, Culture, Sports, Science and Technology to international students who wish to study at Japanese universities. It is one of the most generous scholarships for study in Japan, providing **full tuition**, **monthly stipends**, and **round-trip travel expenses**. Applicants for the undergraduate program take written examinations, including mathematics: **Mathematics A** is for humanities and social science applicants, and **Mathematics B** for science and engineering applicants.
 
 Below are past math exams. For current application details, see [Study in Japan](https://www.studyinjapan.go.jp/en/) or contact the Japanese embassy in your country.
 
-**MEXT Math A**
+**Mathematics A**
 
 - [2025](/assets/mext/mext-math-a-2025.pdf)
 - [2024](/assets/mext/mext-math-a-2024.pdf)
@@ -23,7 +23,7 @@ Below are past math exams. For current application details, see [Study in Japan]
 - [2015](/assets/mext/mext-math-a-2015.pdf)
 - [2014](/assets/mext/mext-math-a-2014.pdf)
 
-**MEXT Math B**
+**Mathematics B**
 
 - [2025](/assets/mext/mext-math-b-2025.pdf)
 - [2024](/assets/mext/mext-math-b-2024.pdf)
