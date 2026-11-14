@@ -24,13 +24,3 @@ I am a Ph.D. student at the [Institute of Mathematics at UNAM, Cuernavaca](https
 My research is in operator algebras, focusing on the structure and classification of C\*-algebras.
 
 Email: [kohei.miyazaki@im.unam.mx](mailto:kohei.miyazaki@im.unam.mx)
-
-<style>
-  :root, html[data-theme="dark"] {
-    --global-theme-color: #1f4e9c;
-    --global-hover-color: #1f4e9c;
-  }
-  .post-title .font-weight-bold {
-    font-weight: inherit;
-  }
-</style>
