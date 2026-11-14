@@ -1,15 +1,15 @@
 ---
 layout: page
-title: resources
+title: Resources
 permalink: /resources/
 nav: true
 nav_order: 1
 ---
 
-## Notes
+## MEXT Math A
 
 - [Example notes (PDF)](/assets/pdf/example.pdf)
 
-## Links
+## MEXT Math B
 
 - [Example link](https://example.com)
