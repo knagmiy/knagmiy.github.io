@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: MEXT
+permalink: /mext/
 nav: true
 nav_order: 1
 ---
