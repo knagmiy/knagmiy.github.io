@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false
-  more_info:
+  more_info: >
+    <p>Taken during <a href="https://sites.google.com/cimat.mx/sima2026/home">SIMA 2026</a> at CIMAT, Guanajuato, Mexico.</p>
 
 selected_papers: false
 social: false
