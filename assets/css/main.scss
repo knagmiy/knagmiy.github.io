@@ -37,8 +37,10 @@ html[data-theme="dark"] {
 .profile .more-info {
   font-family: inherit;
   font-size: 0.8rem;
-  font-style: italic;
   line-height: 1.4;
-  color: var(--global-text-color-light);
   margin: 0.4rem 0 1.75rem;
+}
+.profile .more-info p {
+  font-style: italic;
+  color: var(--global-text-color-light);
 }
