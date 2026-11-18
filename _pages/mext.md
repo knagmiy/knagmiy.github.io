@@ -34,7 +34,7 @@ Below are past math exams. For current application details, see [Study in Japan]
 - [2017](/assets/mext/mext-math-b-2017.pdf)
 - [2016](/assets/mext/mext-math-b-2016.pdf)
 - [2015](/assets/mext/mext-math-b-2015.pdf)
-- [2014](/assets/mext/mext-math-b-2014.pdf)
+- [2014](/assets/mext/mext-math-b-2014.pdf), [solution](/assets/mext/sol-mext-math-b-2014.pdf)
 - [2013](/assets/mext/mext-math-b-2013.pdf)
 - [2012](/assets/mext/mext-math-b-2012.pdf)
 - [2010](/assets/mext/mext-math-b-2010.pdf)
