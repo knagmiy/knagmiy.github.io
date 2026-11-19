@@ -26,7 +26,7 @@ Below are past math exams, along with my handwritten solutions. For current appl
 **Math B**
 
 - [2025](/assets/mext/mext-math-b-2025.pdf), [solution](/assets/mext/sol-mext-math-b-2025.pdf)
-- [2024](/assets/mext/mext-math-b-2024.pdf)
+- [2024](/assets/mext/mext-math-b-2024.pdf), [solution](/assets/mext/sol-mext-math-b-2024.pdf)
 - [2023](/assets/mext/mext-math-b-2023.pdf)
 - [2020](/assets/mext/mext-math-b-2020.pdf)
 - [2019](/assets/mext/mext-math-b-2019.pdf)
