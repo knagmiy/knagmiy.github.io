@@ -4,11 +4,11 @@
 {% assign sd = s | date: "%-d" %}{% assign td = t | date: "%-d" %}
 {% assign sy = s | date: "%Y" %}{% assign ty = t | date: "%Y" %}
 {% if sy != ty %}
-  {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }} - {{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
+  {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }}–{{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
 {% elsif sm != tm %}
-  {% capture when %}{{ months[sm] }} {{ sd }} - {{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
+  {% capture when %}{{ months[sm] }} {{ sd }}–{{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
 {% elsif sd != td %}
-  {% capture when %}{{ months[sm] }} {{ sd }} - {{ td }}, {{ ty }}{% endcapture %}
+  {% capture when %}{{ months[sm] }} {{ sd }}–{{ td }}, {{ ty }}{% endcapture %}
 {% else %}
   {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }}{% endcapture %}
 {% endif %}
