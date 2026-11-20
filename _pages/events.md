@@ -10,7 +10,7 @@ Here is a list of events and conferences that I will attend/have attended.
 {% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
 {% assign events = site.data.events | sort: "date" %}
 
-## Upcoming:
+**Upcoming**
 <ul>
 {% for e in events %}
   {% assign last = e.end_date | default: e.date | date: "%Y%m%d" | plus: 0 %}
@@ -18,7 +18,7 @@ Here is a list of events and conferences that I will attend/have attended.
 {% endfor %}
 </ul>
 
-## Past:
+**Past**
 <ul>
 {% for e in events reversed %}
   {% assign last = e.end_date | default: e.date | date: "%Y%m%d" | plus: 0 %}
