@@ -1,0 +1,16 @@
+{% assign months = "Jan.,Feb.,March,April,May,June,July,Aug.,Sept.,Oct.,Nov.,Dec." | split: "," %}
+{% assign s = include.e.date %}
+{% assign t = include.e.end_date | default: s %}
+{% assign sm = s | date: "%-m" | minus: 1 %}{% assign tm = t | date: "%-m" | minus: 1 %}
+{% assign sd = s | date: "%-d" %}{% assign td = t | date: "%-d" %}
+{% assign sy = s | date: "%Y" %}{% assign ty = t | date: "%Y" %}
+{% if sy != ty %}
+  {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }} - {{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
+{% elsif sm != tm %}
+  {% capture when %}{{ months[sm] }} {{ sd }} - {{ months[tm] }} {{ td }}, {{ ty }}{% endcapture %}
+{% elsif sd != td %}
+  {% capture when %}{{ months[sm] }} {{ sd }} - {{ td }}, {{ ty }}{% endcapture %}
+{% else %}
+  {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }}{% endcapture %}
+{% endif %}
+<li>{% if include.e.link %}<a href="{{ include.e.link }}">{{ include.e.title }}</a>{% else %}{{ include.e.title }}{% endif %}{% if include.e.note %} {{ include.e.note }}{% endif %}{% if include.e.role %} ({{ include.e.role }}){% endif %}, {{ when | strip }}</li>
