@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 Here is a list of events and conferences that I will attend/have attended.
 
