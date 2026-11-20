@@ -206,10 +206,14 @@ collections:
     output: true
   teachings:
     output: true
+  events:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
+
+future: true
 
 # Markdown and syntax highlight
 markdown: kramdown
