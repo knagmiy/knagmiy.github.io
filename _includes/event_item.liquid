@@ -13,4 +13,6 @@
 {% else %}
   {% capture when %}{{ months[sm] }} {{ sd }}, {{ sy }}{% endcapture %}
 {% endif %}
-<li>{% if include.e.link %}<a href="{{ include.e.link }}">{{ include.e.title }}</a>{% else %}{{ include.e.title }}{% endif %}{% if include.e.note %} {{ include.e.note }}{% endif %}{% if include.e.role %} ({{ include.e.role }}){% endif %}, {{ when | strip }}</li>
+{% assign sl = include.e.slides %}{% unless sl contains "://" %}{% assign sl = "/assets/pdf/" | append: sl | relative_url %}{% endunless %}
+{% assign nt = include.e.notes %}{% unless nt contains "://" %}{% assign nt = "/assets/pdf/" | append: nt | relative_url %}{% endunless %}
+<li>{% if include.e.link %}<a href="{{ include.e.link }}">{{ include.e.title }}</a>{% else %}{{ include.e.title }}{% endif %}{% if include.e.role %} ({{ include.e.role }}){% endif %}{% if include.e.place %}, {{ include.e.place }}{% endif %}, {{ when | strip }}{% if include.e.slides %}, <a href="{{ sl }}">slides</a>{% endif %}{% if include.e.notes %}, <a href="{{ nt }}">notes</a>{% endif %}</li>
