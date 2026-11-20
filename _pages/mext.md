@@ -3,7 +3,7 @@ layout: page
 title: MEXT
 permalink: /mext/
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 The Japanese Government (MEXT) Scholarship is offered by Japan's Ministry of Education, Culture, Sports, Science and Technology to international students who wish to study at Japanese universities. It is one of the most generous scholarships for study in Japan, providing full tuition, monthly stipends, and round-trip travel expenses. Applicants for the undergraduate program take written exams, including math. **Math A** is for humanities and social science applicants, and **Math B** for science and engineering applicants.
