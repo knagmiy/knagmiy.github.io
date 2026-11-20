@@ -1,5 +1,4 @@
-{% assign months = "Jan.,Feb.,March,April,May,June,July,Aug.,Sept.,Oct.,Nov.,Dec." | split: "," %}
-{% assign s = include.e.date %}
+{% assign months = "January,February,March,April,May,June,July,August,September,October,November,December" | split: "," %}{% assign s = include.e.date %}
 {% assign t = include.e.end_date | default: s %}
 {% assign sm = s | date: "%-m" | minus: 1 %}{% assign tm = t | date: "%-m" | minus: 1 %}
 {% assign sd = s | date: "%-d" %}{% assign td = t | date: "%-d" %}
