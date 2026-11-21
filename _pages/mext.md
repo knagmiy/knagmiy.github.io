@@ -39,5 +39,5 @@ Below are past math exams, along with my handwritten solutions. For current appl
 - [2012](/assets/mext/mext-math-b-2012.pdf)
 - [2010](/assets/mext/mext-math-b-2010.pdf)
 - [2009](/assets/mext/mext-math-b-2009.pdf), [solution](/assets/mext/sol-mext-math-b-2009.pdf)
-- [2008](/assets/mext/mext-math-b-2008.pdf)
+- [2008](/assets/mext/mext-math-b-2008.pdf), [solution](/assets/mext/sol-mext-math-b-2008.pdf)
 - [2007](/assets/mext/mext-math-b-2007.pdf)
