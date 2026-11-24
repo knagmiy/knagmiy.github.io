@@ -12,7 +12,7 @@ Below are past math exams, along with my handwritten solutions. For current appl
 
 **Math A**
 
-- [2025](/assets/mext/mext-math-a-2025.pdf)
+- [2025](/assets/mext/mext-math-a-2025.pdf), [solutions](/assets/mext/sol-mext-math-a-2025.pdf)
 - [2024](/assets/mext/mext-math-a-2024.pdf)
 - [2023](/assets/mext/mext-math-a-2023.pdf)
 - [2020](/assets/mext/mext-math-a-2020.pdf)
