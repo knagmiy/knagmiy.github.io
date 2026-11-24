@@ -16,7 +16,7 @@ Below are past math exams, along with my handwritten solutions. For current appl
 - [2024](/assets/mext/mext-math-a-2024.pdf)
 - [2023](/assets/mext/mext-math-a-2023.pdf)
 - [2020](/assets/mext/mext-math-a-2020.pdf)
-- [2019](/assets/mext/mext-math-a-2019.pdf)
+- [2019](/assets/mext/mext-math-a-2019.pdf), [solutions](/assets/mext/sol-mext-math-a-2019.pdf)
 - [2018](/assets/mext/mext-math-a-2018.pdf)
 - [2017](/assets/mext/mext-math-a-2017.pdf)
 - [2016](/assets/mext/mext-math-a-2016.pdf)
