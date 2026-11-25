@@ -44,3 +44,5 @@ html[data-theme="dark"] {
   font-style: italic;
   color: var(--global-text-color-light);
 }
+
+.post-title .font-weight-bold { font-weight: inherit !important; }
