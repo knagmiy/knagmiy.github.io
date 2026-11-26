@@ -32,7 +32,7 @@ Below are past math exams, along with my handwritten solutions. For current appl
 - [2019](/assets/mext/mext-math-b-2019.pdf), [solutions](/assets/mext/sol-mext-math-b-2019.pdf)
 - [2018](/assets/mext/mext-math-b-2018.pdf), [solutions](/assets/mext/sol-mext-math-b-2018.pdf)
 - [2017](/assets/mext/mext-math-b-2017.pdf)
-- [2016](/assets/mext/mext-math-b-2016.pdf)
+- [2016](/assets/mext/mext-math-b-2016.pdf), [solutions](/assets/mext/sol-mext-math-b-2016.pdf)
 - [2015](/assets/mext/mext-math-b-2015.pdf), [solutions](/assets/mext/sol-mext-math-b-2015.pdf)
 - [2014](/assets/mext/mext-math-b-2014.pdf), [solutions](/assets/mext/sol-mext-math-b-2014.pdf)
 - [2013](/assets/mext/mext-math-b-2013.pdf), [solutions](/assets/mext/sol-mext-math-b-2013.pdf)
