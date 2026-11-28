@@ -20,7 +20,7 @@ Below are past math exams, along with my handwritten solutions. For current appl
 - [2018](/assets/mext/mext-math-a-2018.pdf), [solutions](/assets/mext/sol-mext-math-a-2018.pdf)
 - [2017](/assets/mext/mext-math-a-2017.pdf)
 - [2016](/assets/mext/mext-math-a-2016.pdf)
-- [2015](/assets/mext/mext-math-a-2015.pdf)
+- [2015](/assets/mext/mext-math-a-2015.pdf), [solutions](/assets/mext/sol-mext-math-a-2015.pdf)
 - [2014](/assets/mext/mext-math-a-2014.pdf), [solutions](/assets/mext/sol-mext-math-a-2014.pdf)
 
 **Math B**
